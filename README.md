@@ -38,4 +38,4 @@
 
 ##
 
-![Snake animation](https://github.com/isabelsanttana/isabelsanttana/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuilhermeDrummond/GuilhermeDrummond/blob/output/github-contribution-grid-snake.svg)
