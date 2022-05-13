@@ -1,4 +1,4 @@
-## Ola eu sou a Maria Isabel, estudante de Sistemas de Informação.
+## Ola me chamo Guilherme Drummond, estudante de Sistemas de Informação.
 
 <div> 
 
@@ -22,8 +22,7 @@
   <img align="left" alt="Js" height="180em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="HTML" height="180em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="180em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="Python" height="180em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="React" height="180em" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDrummond&layout=compact&langs_count=7&theme=gotham "/>
 </div> 
