@@ -1,4 +1,4 @@
-## Hey my name is Guilherme Drummond, I'm a software development student.
+## Hey my name is Guilherme, I'm a software development student.
 
 <div> 
 
