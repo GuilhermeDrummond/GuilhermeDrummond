@@ -9,7 +9,7 @@
 
 
 - 💻 Front-end developer
-- ✏️ Studying all things related to web development, front-end and JS.
+- ✏️ Studying all things related to web development and front-end.
 - 😄 "Ora et labora"
 
 
