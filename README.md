@@ -8,7 +8,7 @@
 </div>
 
 
-- 💻 Front-end developer
+- 💻 Front-end student
 - ✏️ Studying all things related to web development and front-end.
 - 😄 "Ora et labora"
 
