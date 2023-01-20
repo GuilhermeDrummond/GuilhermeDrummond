@@ -13,7 +13,6 @@
  
 </div>
 <div><br> 
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeDrummond&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="486" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDrummond&layout=compact&theme=dark"/>
 </div><hr>
 
