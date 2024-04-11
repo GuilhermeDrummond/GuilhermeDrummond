@@ -5,11 +5,6 @@
  
 </div><br>
 
-- 💻 Hoje trabalho como Suporte técnico.
-- ✏️ Estudando Desenvolvimento Web.
-- 😄 Em busca de me tornar um desenvolvedor front-end!
-
-
  
 </div>
 <div><br> 
